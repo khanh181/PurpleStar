@@ -1,6 +1,6 @@
 Solana Airdrop Bot. This bot can get airdrop token for testing only, supports multiple chain network such as Solana, BTC, Ethereum. Solana-bot Meme token bots. autotrade, raydium bot, jupiter bot, autorade bot, trade bot
 
-# CosmicStar
+# PurpleStar
 > [!TIP] 
 > ## Solana Airdr0p Bot. This bot can autoget airdrop token, supports network Solana. is an efficient and secure solution for automated trading, coins on the Solana blockchain. Utilizing premium APIs and Chromedriver, this bot automates trading operations web interfaces of popular exchanges.
 ## Getting Started:
